@@ -1,1 +1,1 @@
-# Simple-Cnn-Classifier-in-tomato-deases-prediction
+# CNN classifier in tomato deases prediction
